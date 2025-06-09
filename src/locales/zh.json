@@ -1,0 +1,222 @@
+{
+  "nav": {
+    "home": "首页",
+    "news": "活动资讯",
+    "archive": "毛城档案",
+    "apply": "申请中心",
+    "visitor": "游客服务",
+    "arms": "ARMS入口",
+    "fcs": "关于FCS",
+    "about": "关于我们",
+    "login": "登录"
+  },
+  "home": {
+    "welcome": "欢迎访问 FurCity 官方平台！报名、申请、查阅一站式平台服务已开放。",
+    "features": "城市功能与服务",
+    "social": "社交媒体"
+  },
+  "feature": {
+    "pass": "通行许可",
+    "passDesc": "获取展会门票与入场资格",
+    "map": "展会地图与交通",
+    "mapDesc": "了解交通与周边信息",
+    "media": "记忆回放",
+    "mediaDesc": "查看往届照片与视频资料",
+    "stats": "数据展示",
+    "statsDesc": "统计数据与历届成就"
+  },
+  "banner": {
+    "poster": "当届主视觉海报",
+    "news": "最新消息",
+    "countdown": "开展倒计时",
+    "sub1": "欢迎来到 FurCity 2025！",
+    "sub2": "查看最新活动资讯"
+  },
+  "announce": {
+    "ticket": "🎫 早鸟票已开售！",
+    "booth": "🏪 摊位招募进行中"
+  },
+  "news": {
+    "center": "FurCity 活动资讯中心",
+    "tagline": "在这里查看展会更新、策划日志与官方发布，获取第一手的活动消息！",
+    "searchPlaceholder": "搜索资讯关键词…",
+    "readMore": "阅读全文",
+    "empty": "暂无资讯发布，敬请期待后续内容更新。",
+    "cat": {
+      "all": "全部",
+      "notice": "公告",
+      "devlog": "策划日志",
+      "preview": "活动预告",
+      "partner": "合作伙伴"
+    }
+  },
+  "archive": {
+    "center": "毛城档案",
+    "tagline": "按年份回顾 FurCity 展会历程与资料。",
+    "section": {
+      "overview": "展会概览",
+      "achievements": "成就记录",
+      "gallery": "精彩画廊"
+    },
+    "overview": {
+      "time": "时间",
+      "location": "地点",
+      "guest": "嘉宾",
+      "sponsor": "赞助",
+      "partner": "合作"
+    },
+    "empty": "暂无档案可供查看。"
+  },
+  "arms": {
+    "center": "A.R.M.S 系统登录",
+    "tagline": "此系统仅限 Staff 与授权人员访问，请输入账户信息。",
+    "username": "用户名",
+    "password": "密码",
+    "login": "登录",
+    "logout": "退出登录",
+    "error": "用户名或密码错误，请重试",
+    "dashboard": "管理功能入口",
+    "features": {
+      "rmdcs": "调度控制中心 (RMDCS)",
+      "rmdcsDesc": "前往调度平台（需内部授权）",
+      "fist": "FIST 通知发布系统",
+      "fistDesc": "发布活动通知，控制通知流推送",
+      "stream": "实时任务流监控",
+      "streamDesc": "追踪现场调度流，查看状态",
+      "screen": "活动调度信息大屏",
+      "screenDesc": "同步大屏信息至主控台与移动端",
+      "ticket": "票务 / 护照管理",
+      "ticketDesc": "扫码绑定、挂失管理、护照核验",
+      "material": "物资核验系统",
+      "materialDesc": "核验物料、票务、护照绑定与发放",
+      "entry": "入场管理系统",
+      "entryDesc": "通行证扫码验证与异常检测警告",
+      "database": "游客与 Staff 资料库",
+      "databaseDesc": "查验、实名信息补录、资料维护",
+      "mail": "官方邮箱平台",
+      "mailDesc": "媒体合作与部门邮件联系系统"
+    }
+  },
+  "fcs": {
+    "center": "关于 FCS（FurCity Staff 团队）",
+    "tagline": "FCS 既是现实运作团队，也在世界观中扮演城市管理机构。",
+    "world": {
+      "title": "世界观中的组织设定",
+      "content": "在“毛茸城”设定中，FCS 是城市管理机构..."
+    },
+    "duty": {
+      "title": "Staff 工作职责与部门介绍",
+      "items": [
+        "展务组：负责会场布局、摊位引导、互动区域布置。",
+        "票务组：护照发放、通行证绑定、现场扫码入场管理。",
+        "调度组：使用 A.R.M.S 平台进行任务分配、活动追踪。",
+        "宣传组：撰写文案、设计物料、社媒平台日常维护。",
+        "媒体组：拍摄、后期与照片视频资料整理归档。",
+        "客服组：游客咨询接待、现场问询、系统反馈跟进。"
+      ]
+    }
+  },
+  "about": {
+    "center": "关于我们",
+    "tagline": "一群热爱创作与分享的兽迷，汇聚成 FurCity 的核心团队。",
+    "who": {
+      "title": "我们是谁",
+      "content": "FurCity 由来自设计、技术、活动策划等多领域的伙伴组成..."
+    },
+    "contact": {
+      "title": "联系我们",
+      "list": [
+        "官方邮箱：contact@furcity.online",
+        "媒体合作：media@furcity.online",
+        "对外事务：outreach@furcity.online"
+      ]
+    },
+    "story": {
+      "title": "幕后故事",
+      "content": "从最初的小型同好会到如今的万人展会，我们经历了..."
+    }
+  },
+  "ticket": {
+    "center": "通行许可（票务信息）",
+    "tagline": "所有 FurCity 参展者需凭有效票务与通行证入场。",
+    "types": {
+      "title": "票务类型",
+      "list": [
+        "普通票：入场资格 + 通行证 + 活动参与权。",
+        "赞助票：包含普通票权益 + 专属礼包 + 快速入场通道。",
+        "展商票：用于摊主登记与展位搭建权限。",
+        "Staff票：内部使用，用于活动工作人员身份识别。"
+      ]
+    },
+    "purchase": {
+      "title": "购票方式",
+      "content": "所有票种均通过官方小程序发售，请使用微信扫码或点击下方按钮进入购票系统。",
+      "button": "前往小程序购票"
+    },
+    "notice": {
+      "title": "注意事项",
+      "list": [
+        "票务一经售出，不可退换，购票前请确认信息。",
+        "票务需绑定实名身份信息与通行证，建议提前登记。",
+        "如遇问题可通过客服通道提交咨询。"
+      ]
+    }
+  },
+  "map": {
+    "center": "展会地图与交通指引",
+    "tagline": "以下为展会位置、交通、住宿与接驳信息。",
+    "venue": {
+      "title": "展会场地",
+      "address": "广东省广州市 • FurCity 会展中心",
+      "mapPlaceholder": "地图占位图"
+    },
+    "transport": {
+      "title": "地铁与公共交通",
+      "list": [
+        "推荐搭乘地铁 2 号线。",
+        "从高铁站可搭乘 BRT 快线 / 出租车直达会展中心。",
+        "活动期间提供接驳巴士服务，站点详见小程序实时更新。"
+      ]
+    },
+    "hotel": {
+      "title": "推荐住宿",
+      "list": [
+        "FurCity Hotel（五星，步行 5 分钟）",
+        "Paws Inn（经济型，地铁 2 站）",
+        "Tail Hostel（青年旅社，价格亲民）"
+      ]
+    },
+    "shuttle": {
+      "title": "接驳与临时交通安排",
+      "content": "活动期间将在各地铁主站、高铁口设立临时接驳服务，具体时刻表请通过官方小程序查看。"
+    }
+  },
+  "media": {
+    "center": "记忆回放",
+    "tagline": "一起重温毛城往届的精彩时刻！",
+    "photos": { "title": "精彩照片集" },
+    "videos": { "title": "官方视频回顾" }
+  },
+  "stats": {
+    "center": "数据展示中心",
+    "tagline": "展示 FurCity 的统计数据与成就。",
+    "overview": {
+      "events": "历届展会",
+      "visits": "总入场人次",
+      "vendors": "累计展商",
+      "satisfaction": "满意度"
+    },
+    "achieve": {
+      "title": "展会成就记录（FEX 系统）",
+      "list": [
+        "2023：首次启用护照系统，现场互动完成率 92%。",
+        "2024：实现 A.R.M.S 全流程调度，达成 “满帧城市” 成就。",
+        "2025：新增 NFC 签到、个性化 FEX 勋章生成。"
+      ]
+    },
+    "trend": {
+      "title": "访问数据趋势",
+      "placeholder": "图表预留区域"
+    }
+  }
+}
